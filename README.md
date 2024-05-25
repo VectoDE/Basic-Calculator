@@ -53,5 +53,5 @@ Welcome to the **Basic Calculator** repository! This project provides a simple, 
   - `index.js`: Entry point of the React application
 
 ## License
-
+ 
 This project is licensed under the MIT License – see the [LICENSE.md](LICENSE.md) file for details.
